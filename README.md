@@ -8,3 +8,14 @@ them to control and sucrose-treated samples.
 * Characterized the gene expression patterns and functional enrichment within the unique heat
 response cluster.
 * Trajectory analysis revealed the origin of heat shock cluster.
+
+
+Main results of the project
+
+### Distincy cluster associated with heat response in arabidopsis root
+![image](https://github.com/LeLiu552/SingleCell_Analysis/assets/73537116/1d9910bf-c437-40be-9aa6-55175f2d4230)
+
+
+### GO enrichment of the heat response
+
+![image](https://github.com/LeLiu552/SingleCell_Analysis/assets/73537116/3fb8155d-4625-4f15-bab9-4d34a13f9c1a)
